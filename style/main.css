@@ -1,1 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Almendra&display=swap');
 
+body {
+  font-family: 'Almendra', serif;
+  font-size: 35px;
+  color: rgba(255, 182, 193, 1);
+  text-shadow: rgb(10, 10, 10) 2px 2px 2px;
+}
+
+.section {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.footer {
+  font-size: 20px;
+  text-align: right;
+  background: rgba(50, 50, 50, 0.3);
+  margin-top: 20px;
+}
