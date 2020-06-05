@@ -2,12 +2,13 @@
 
 body {
   font-family: 'Almendra', serif;
-  font-size: 18px;
+  font-size: 20px;
   color: rgba(255, 182, 193, 1);
   text-shadow: rgb(10, 10, 10) 2px 2px 2px;
-  background-image: url("https://pbs.twimg.com/media/DrAdIc9UwAAfDp6?format=jpg&name=large");
+  background-image: url("images/background-test.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: 5% 50%; 
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
 }
 
 .footer {
-  font-size: 15px;
+  font-size: 20px;
   text-align: right;
   background: rgba(50, 50, 50, 0.3);
   margin-top: 10px;
