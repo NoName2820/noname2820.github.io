@@ -6,12 +6,13 @@ body {
   color: rgba(255, 182, 193, 1);
   text-shadow: rgb(10, 10, 10) 2px 2px 2px;
   background-image: url("images/background-test.jpg");
+  background-repeat: no-repeat;
 }
 
 .section {
   background-color: rgba(255, 255, 255, 0.15);;
   border-radius: 15px;
-  padding: 20px;
+  padding: 5px 20px 5px 20px;
   margin-top: 20px;
 }
 
@@ -19,5 +20,5 @@ body {
   font-size: 20px;
   text-align: right;
   background: rgba(50, 50, 50, 0.3);
-  margin-top: 20px;
+  margin-top: 10px;
 }
